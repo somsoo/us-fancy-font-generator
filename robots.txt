@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://us-fancy-font-generator.enjoy-onepage.com/sitemap.xml
